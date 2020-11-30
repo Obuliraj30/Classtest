@@ -18,6 +18,20 @@ public class Instancevariable {
 		
 		System.out.println("Done="+in2.a);
 		
+		System.out.println("Done");
+		System.out.println("Done");
+		System.out.println("Done");
+		System.out.println("Done");
+	
+//		Instancevariable in = new Instancevariable();
+//		System.out.println("Before method calling="+ in.a);
+//		
+//		in.add();
+//		System.out.println("after method calling="+in.a);
+//		Instancevariable in2 = new Instancevariable();
+//		
+//		System.out.println("Done="+in2.a)
+		
 	}
 	
 	

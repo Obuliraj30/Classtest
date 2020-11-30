@@ -15,6 +15,12 @@ public class Test {
 		f.createNewFile();
 		System.out.println("1000");
 		System.out.println("20000");
+		System.out.println("1000");
+		System.out.println("20000");
+		System.out.println("1000");
+		System.out.println("20000");
+		System.out.println("1000");
+		System.out.println("20000");
 		
 		
 			
