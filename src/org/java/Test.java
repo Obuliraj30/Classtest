@@ -16,6 +16,26 @@ public class Test {
 		System.out.println("1000");
 		System.out.println("20000");
 		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
+		
+		System.out.println("1000");
+		System.out.println("20000");
 		
 			
 		
