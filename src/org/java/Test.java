@@ -13,6 +13,8 @@ public class Test {
 //		
 		File f = new File("D:\\GreensTech\\java\\selenium\\A\\obuli.txt");
 		f.createNewFile();
+		System.out.println("1000");
+		System.out.println("20000");
 		
 		
 			
